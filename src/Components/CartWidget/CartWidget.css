@@ -1,0 +1,38 @@
+.carro img{
+    width:40px;
+    justify-content: center;
+}
+.uno{
+    position: relative;
+    background-size: cover;
+    bottom:48px;
+    /* left: 30px; */
+    background-color:white;
+    border-radius:50%;
+    width:17px;
+    height: 18px;
+    z-index: 1;
+    margin: auto;
+}
+
+.uno p{
+  margin: 0px, auto;
+}
+.carro p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size:18px;
+    position: relative;
+    bottom: 4px;
+    left: 1px;
+
+}
+
+.carro{
+    position: relative;
+    top: 10px;
+}
+
+.carro:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.item{
+    /* border:solid 1px #000;
+    border-radius: 20px;
+    margin: 50px;
+    padding:9px; */
+}
+img {
+    /* width:10rem; */
+}
+.buton {
+    margin: 3px 0;
+    height: 30px;
+    width: 100;
+    color: black;
+    background-color: #ffc21d;
+    text-transform: uppercase;
+    padding: 7px;
+    border-radius: .3rem;
+    /* letter-spacing: 2px; */
+    font-weight:900;
+
+    /* &:hover {
+        animation-name: btn-hov;
+        animation-duration: 550ms;
+        animation-fill-mode: forwards;
+    } */
+}
+
+.nam{
+    margin-right: 120px;
+}
+.i-product{
+    margin:0px auto;
+}
+h2{
+    width:400px;
+}
+button{
+    border-radius: 15px;
+}
+.card{
+    justify-content: space-around;
+}
